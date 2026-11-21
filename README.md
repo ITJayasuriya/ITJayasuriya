@@ -1,44 +1,94 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend developer. Thoughtful interfaces. Built to ship." width="100%">
+</picture>
 
-# Isuru Jayasuriya
+<br>
 
-### Full-Stack Developer
+<img align="right" src="./assets/isuru.jpeg" alt="Isuru Jayasuriya" width="155">
 
-**Thoughtful interfaces. Solid backends. Cloud delivery.**
+### Hi, I'm Isuru.
 
-Angular · React · Next.js · TypeScript · C# · .NET · AWS · Azure
+I'm a **Software Engineer at Inivos**, with professional experience since **January 2022**. My focus is frontend development: building useful interfaces with **TypeScript, React, Next.js, and Angular**.
 
-</div>
+I've worked on healthcare applications, public-facing websites, and transport operations software—with hands-on experience across APIs, automated testing, and cloud delivery.
+
+**I'm interested in remote frontend opportunities with international teams.**
+
+[Email me](mailto:isurutjayasuriya@gmail.com) · [Explore my repositories](https://github.com/ITJayasuriya?tab=repositories)
+
+<br clear="all">
 
 ---
 
-### About me
+### Interfaces with real work behind them
 
-I'm a full-stack developer with **4.5 years of experience**, working across frontend development, C#/.NET backends, and cloud deployments. My experience spans designing interfaces in Figma, reworking existing UIs, building applications, and managing the infrastructure that runs them.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I bring an eye for interface design alongside hands-on experience with **AWS, Azure, CI/CD pipelines, databases, and serverless endpoints**.
+**01 / Healthcare applications**
 
-### What I work with
+Built modular Angular interfaces for clinical screening, cardiovascular risk assessment, and diabetes management. Implemented assessment logic, interactive risk adjustments, and printable reports.
 
-| Area | Technologies & experience |
+`Angular` `TypeScript` `C# / .NET`
+
+</td>
+<td width="50%" valign="top">
+
+**02 / Websites & integrations**
+
+Developed a healthcare company's public website using React / Next.js and Plasmic. Integrated Zoom, Zendesk, and Google Analytics, and worked on AWS deployment.
+
+`React` `Next.js` `AWS`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**03 / Transport operations**
+
+Worked on Transpomate, a platform for transport requests, approvals, and vehicle allocation. Progressed from Playwright test automation to full-stack development.
+
+`Next.js` `NestJS` `MSSQL` `Azure`
+
+</td>
+<td valign="top">
+
+**04 / Delivery & reliability**
+
+My current assignment focuses on DevOps engineering: Python, YAML, and CI/CD. That experience adds a practical delivery perspective to how I build and maintain applications.
+
+`Python` `YAML` `CI/CD`
+
+</td>
+</tr>
+</table>
+
+### My toolkit
+
+| Focus | Technologies |
 | :--- | :--- |
-| **Frontend** | Angular, React, Next.js, TypeScript |
-| **Backend** | C#, .NET |
-| **UI / UX** | Figma, interface design, UI reworks & re-skinning |
-| **Cloud & delivery** | AWS, Azure, deployments & CI/CD pipelines |
-| **Infrastructure** | Database management & serverless endpoints |
+| **Frontend** | TypeScript · JavaScript · React · Next.js · Angular |
+| **UI implementation** | Modular components · Responsive interfaces · Chakra UI · Plasmic |
+| **Backend & data** | NestJS · C# · .NET Core · Microsoft SQL Server |
+| **Testing & delivery** | Playwright · Git · Azure DevOps · AWS · Azure · Python · YAML |
 
-### Where I'm heading
+### Experience & education
 
-My current focus is full-stack development, with a **long-term interest in cybersecurity**. I'm interested in how application development, cloud infrastructure, and security come together.
+**Inivos · January 2022–present**  
+Associate Software Engineer → **Software Engineer, July 2026**  
+Experience across internal products and international client teams through Inivos staff augmentation assignments. Currently working in DevOps engineering, with frontend development as my career focus.
 
-### Education
-
-**BEng (Hons) Software Engineering**  
-University of Westminster, London
+**BEng (Hons) Software Engineering · First Class Honours**  
+University of Westminster, UK · Studied at IIT, Sri Lanka · 2021–2026  
+Completed part-time alongside full-time software engineering work.
 
 ---
 
 <div align="center">
-<sub>From interface design to deployment.</sub>
+  <strong>Have a frontend role in mind? Let's talk.</strong><br>
+  <a href="mailto:isurutjayasuriya@gmail.com">isurutjayasuriya@gmail.com</a><br><br>
+  <sub>Based in Sri Lanka · Open to international remote opportunities</sub>
 </div>

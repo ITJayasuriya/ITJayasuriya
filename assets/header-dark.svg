@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Isuru Jayasuriya. Frontend developer. Thoughtful interfaces, built to ship.">
+<rect width="1200" height="420" rx="22" fill="#101820"/>
+<g fill="none" stroke="#2c4149" stroke-width="1"><path d="M820 0V420M900 0V420M980 0V420M1060 0V420M1140 0V420M800 60H1200M800 140H1200M800 220H1200M800 300H1200M800 380H1200"/></g>
+<circle cx="1050" cy="194" r="125" fill="none" stroke="#a5edcb" stroke-width="2" opacity=".45"/>
+<rect x="866" y="98" width="236" height="214" rx="15" fill="#101820" stroke="#2c4149" stroke-width="2"/>
+<circle cx="889" cy="120" r="4" fill="#a5edcb"/><circle cx="904" cy="120" r="4" fill="#2c4149"/><circle cx="919" cy="120" r="4" fill="#2c4149"/>
+<path d="M866 140H1102" stroke="#2c4149"/>
+<g font-family="monospace" font-size="48" fill="#a5edcb"><text x="897" y="227">&lt;ui /&gt;</text></g>
+<path d="M897 257H1018M897 274H1066" stroke="#2c4149" stroke-width="6" stroke-linecap="round"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="58" y="63" fill="#a5edcb" font-size="15" letter-spacing="3">ISURU JAYASURIYA / FRONTEND DEVELOPER</text>
+<text x="54" y="152" fill="#f4f1e9" font-size="61" font-weight="700" letter-spacing="-2">Thoughtful interfaces.</text>
+<text x="54" y="224" fill="#f4f1e9" font-size="61" font-weight="700" letter-spacing="-2">Built to ship.</text>
+<text x="58" y="278" fill="#a6b9bb" font-size="21">Frontend craft. Full-stack perspective. Delivery experience.</text>
+<rect x="58" y="325" width="302" height="39" rx="19" fill="#a5edcb"/>
+<text x="79" y="350" fill="#101820" font-size="14" font-weight="700" letter-spacing="1">OPEN TO REMOTE FRONTEND ROLES</text>
+<text x="387" y="350" fill="#a6b9bb" font-size="15">SRI LANKA · UTC +05:30</text>
+</g></svg>
