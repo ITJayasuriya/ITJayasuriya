@@ -3,13 +3,17 @@
   <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend-focused Software Engineer. TypeScript, React, Next.js and Angular. Open to remote frontend roles." width="100%">
 </picture>
 
-### Good interfaces make complex work feel simple.
+### Frontend-focused Software Engineer
 
-I'm **Isuru**, a Software Engineer at **Inivos**, based in Sri Lanka. I've worked full-time in software since **January 2022**, building healthcare interfaces, public websites and business applications while completing my Software Engineering degree with **First Class Honours**.
+**TypeScript · React · Next.js · Angular**
+
+Good interfaces make complex work feel simple.
+
+I'm **Isuru**, a frontend-focused Software Engineer at **Inivos**, based in Sri Lanka, with **nearly five years of professional software engineering experience since January 2022**. I've built healthcare interfaces, public websites and business applications while completing my Software Engineering degree with **First Class Honours**.
 
 **Frontend is my focus:** TypeScript, React, Next.js and Angular. My experience across backend development, Playwright automation and cloud delivery helps me follow a feature from the interface through to production.
 
-I've collaborated with **remote teams in Australia, the United States, Germany, and the Netherlands** through my work at Inivos.
+I've worked with **international client teams through Inivos staff augmentation assignments**, collaborating across frontend, backend, QA and delivery.
 
 **Open to remote frontend opportunities with international teams.**  
 [Let's talk →](mailto:isurutjayasuriya@gmail.com) · [Browse my code →](https://github.com/ITJayasuriya?tab=repositories)
@@ -46,7 +50,7 @@ Frontend development for a healthcare company's website, with Zoom, Zendesk and 
 
 Playwright automation followed by full-stack development on **Transpomate**, covering a platform for transport requests, approvals and vehicle allocation.
 
-`Next.js` · `NestJS` · `MSSQL` · `Azure`
+`TypeScript` · `Next.js` · `NestJS` · `MSSQL` · `Azure`
 
 </td>
 <td valign="top">
