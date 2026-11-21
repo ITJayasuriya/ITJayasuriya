@@ -3,7 +3,7 @@
   <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend-focused Software Engineer. TypeScript, React, Next.js and Angular. Open to remote frontend roles." width="100%">
 </picture>
 
-### Frontend-focused Software Engineer
+## Frontend-focused Software Engineer
 
 **TypeScript · React · Next.js · Angular**
 
@@ -16,17 +16,21 @@ I'm **Isuru**, a frontend-focused Software Engineer based in Sri Lanka, with **n
 I've worked with **international teams**, collaborating across frontend, backend, QA and delivery.
 
 **Open to remote frontend opportunities with international teams.**  
-[Let's talk →](mailto:isurutjayasuriya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isuru-jayasuriya/) · [Browse my code →](https://github.com/ITJayasuriya?tab=repositories)
+<a href="mailto:isurutjayasuriya@gmail.com"><img src="./assets/link-contact.svg" alt="Let's talk →" height="40"></a>
+<a href="https://www.linkedin.com/in/isuru-jayasuriya/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="40"></a>
+<a href="https://github.com/ITJayasuriya?tab=repositories"><img src="./assets/link-code.svg" alt="Browse my code →" height="40"></a>
 
 ---
 
-### A few things I've built
+## A few things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / Clinical workflows**
+<img src="./assets/work-clinical.svg" alt="" width="100%">
+
+### 01 / Clinical workflows
 
 Angular interfaces for screening, cardiovascular risk assessment and diabetes management. Reusable components, eligibility logic, interactive risk calculations and printable reports that support clinical workflows.
 
@@ -35,7 +39,9 @@ Angular interfaces for screening, cardiovascular risk assessment and diabetes ma
 </td>
 <td width="50%" valign="top">
 
-**02 / A connected public website**
+<img src="./assets/work-website.svg" alt="" width="100%">
+
+### 02 / A connected public website
 
 Frontend development for a healthcare company's website, with Zoom, Zendesk and Google Analytics integrations. Worked across the interface and supporting AWS deployment services.
 
@@ -46,7 +52,9 @@ Frontend development for a healthcare company's website, with Zoom, Zendesk and 
 <tr>
 <td valign="top">
 
-**03 / Transport operations**
+<img src="./assets/work-transport.svg" alt="" width="100%">
+
+### 03 / Transport operations
 
 Playwright automation followed by full-stack development on **Transpomate**, covering a platform for transport requests, approvals and vehicle allocation.
 
@@ -55,7 +63,9 @@ Playwright automation followed by full-stack development on **Transpomate**, cov
 </td>
 <td valign="top">
 
-**04 / Enterprise interfaces**
+<img src="./assets/work-enterprise.svg" alt="" width="100%">
+
+### 04 / Enterprise interfaces
 
 Modular UI and backend integrations for tea auctioning and blending software connected to IFS and other ERP systems. Healthcare application re-skinning, UI fixes and API support work.
 
@@ -65,7 +75,7 @@ Modular UI and backend integrations for tea auctioning and blending software con
 </tr>
 </table>
 
-### Frontend first. Comfortable across the stack.
+## Frontend first. Comfortable across the stack.
 
 | Focus | Toolkit |
 | :--- | :--- |
@@ -76,10 +86,7 @@ Modular UI and backend integrations for tea auctioning and blending software con
 | **Cloud & delivery** | Azure · Azure DevOps · AWS Amplify · Lambda · API Gateway · CI/CD |
 | **Automation & foundations** | Python · YAML · Git · Java / Java SE |
 
-<details>
-<summary><strong>The experience behind the interfaces</strong></summary>
-
-<br>
+## The experience behind the interfaces
 
 **Inivos · January 2022–present**  
 **Software Engineer**
@@ -98,7 +105,6 @@ Foundations of Project Management — Google
 
 **Languages:** English · Sinhala
 
-</details>
 
 ---
 

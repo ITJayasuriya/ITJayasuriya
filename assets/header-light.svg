@@ -1,21 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" lang="en" xml:lang="en" role="img" aria-labelledby="title desc"><title id="title">Isuru Jayasuriya — Frontend-focused Software Engineer</title><desc id="desc">TypeScript, React, Next.js and Angular. Professional experience since 2022. Based in Sri Lanka, open to remote frontend roles. An animated component blueprint connects typed code, a rendered interface and API delivery.</desc><style>svg{font-size:16px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}text{font-family:Arial,Helvetica,sans-serif;font-weight:400;letter-spacing:0;font-kerning:normal}.mono{font-family:Consolas,monospace}.display{font-size:48px;font-weight:700;letter-spacing:-0.02em;line-height:1.1}.tagline{font-size:24px;line-height:1.2}.body{font-size:17px;line-height:1.5}.label{letter-spacing:0.05em;line-height:1.3}.code{font-size:14px;line-height:1.5}.caption{font-size:12px;line-height:1.5}.trace{stroke-dasharray:12 380;animation:flow 8s linear infinite}@keyframes flow{to{stroke-dashoffset:-392}}@media(prefers-reduced-motion:reduce){.trace{animation:none}}.packet{stroke-dasharray:5 95;animation:packet 5s linear infinite}.cursor{animation:blink 2s steps(2,start) infinite}@keyframes packet{to{stroke-dashoffset:-100}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.packet,.cursor{animation:none}}</style><rect width="960" height="440" rx="20" fill="#f4f1e9"/><path d="M32 66H928M32 382H928" stroke="#d4dbd4"/><text x="34" y="42" fill="#167353" class="mono label" font-size="13">IJ / INTERFACES &amp; ENGINEERING</text><text x="715" y="42" fill="#4f6570" font-size="12" class="mono label">SRI LANKA · UTC+05:30</text><text x="40" y="127" fill="#4f6570" font-size="14" class="mono label">HELLO, I’M</text><text x="36" y="184" fill="#172c37" class="display">Isuru Jayasuriya.</text><text x="40" y="225" fill="#167353" class="tagline">Frontend craft. Full-stack perspective.</text><text x="40" y="267" fill="#4f6570" class="body">Turning complex workflows into clear interfaces.</text><text x="40" y="310" fill="#172c37" font-size="14" class="mono">TypeScript / React / Next.js / Angular</text><path d="M40 341H550" stroke="#d4dbd4" stroke-width="2"/><path class="trace" d="M40 341H550" stroke="#167353" stroke-width="2"/><circle cx="46" cy="410" r="4" fill="#167353"/><text x="60" y="415" fill="#172c37" font-size="13" class="mono label">OPEN TO REMOTE FRONTEND ROLES</text><text x="612" y="415" fill="#4f6570" font-size="12" class="mono">PROFESSIONAL EXPERIENCE SINCE 2022</text><g aria-hidden="true">
-<rect x="610" y="88" width="310" height="164" rx="10" fill="#ffffff" stroke="#d4dbd4"/>
-<path d="M610 119H920" stroke="#d4dbd4"/>
-<circle cx="626" cy="104" r="3" fill="#167353"/><circle cx="638" cy="104" r="3" fill="#4f6570" opacity=".5"/><circle cx="650" cy="104" r="3" fill="#4f6570" opacity=".3"/>
-<text x="671" y="108" class="mono caption" fill="#4f6570">interface.tsx</text>
-<text x="628" y="145" class="mono code" fill="#285b91">const Interface = () =&gt; (</text>
-<text x="643" y="169" class="mono code" fill="#167353">&lt;Experience</text>
-<text x="657" y="193" class="mono code" fill="#172c37">  focus="frontend"</text>
-<text x="657" y="217" class="mono code" fill="#172c37">  mindset="end-to-end"</text>
-<text x="643" y="239" class="mono code" fill="#167353">/&gt;</text><text x="669" y="239" class="mono code" fill="#285b91">);</text><rect class="cursor" x="691" y="227" width="6" height="13" fill="#167353"/>
-<path d="M765 252V275M685 275H845M685 275V292M845 275V292" stroke="#d4dbd4" fill="none"/>
-<path class="packet" d="M765 252V275H685V292" stroke="#167353" stroke-width="2" fill="none"/>
-<path class="packet" d="M765 252V275H845V292" stroke="#285b91" stroke-width="2" fill="none"/>
-<rect x="620" y="292" width="130" height="67" rx="8" fill="#ffffff" stroke="#d4dbd4"/>
-<rect x="632" y="305" width="21" height="18" rx="3" fill="none" stroke="#167353"/><path d="M632 310H653" stroke="#167353"/>
-<text x="663" y="318" class="mono caption" fill="#172c37">RENDER</text>
-<path d="M632 337H697M632 344H677" stroke="#4f6570" stroke-width="2" opacity=".65"/>
-<rect x="780" y="292" width="130" height="67" rx="8" fill="#ffffff" stroke="#d4dbd4"/>
-<text x="793" y="318" class="mono caption" fill="#285b91">{ }</text><text x="825" y="318" class="mono caption" fill="#172c37">CONNECT</text>
-<circle cx="795" cy="340" r="3" fill="#167353"/><text x="806" y="344" class="mono caption" fill="#4f6570">API · CI/CD</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" role="img" aria-labelledby="title desc">
+<title id="title">Isuru Jayasuriya — Frontend-focused Software Engineer</title><desc id="desc">TypeScript, React, Next.js and Angular. Professional experience since 2022. Based in Sri Lanka, open to remote frontend roles.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d0d8d1" stroke-width=".5"/></pattern></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#172e37}.meta{font-family:Consolas,monospace;font-size:12px;fill:#536b72}.accent{fill:#246b53}</style>
+<rect width="960" height="400" rx="12" fill="#f5f1e8"/>
+<path d="M36 64H924M36 340H924" stroke="#d0d8d1"/>
+<text x="36" y="39" class="meta">IJ / INTERFACES &amp; ENGINEERING</text><text x="924" y="39" text-anchor="end" class="meta">SRI LANKA · UTC+05:30</text>
+<text x="36" y="106" class="meta">HELLO, I’M</text>
+<text x="32" y="176" font-size="60" font-weight="700" letter-spacing="-2.5">Isuru Jayasuriya.</text>
+<text x="36" y="221" font-size="25" class="accent">Frontend craft. Full-stack perspective.</text>
+<text x="36" y="259" font-size="17" fill="#536b72">Turning complex workflows into clear interfaces.</text>
+<text x="36" y="305" class="meta">TypeScript / React / Next.js / Angular</text>
+<text x="36" y="375" class="meta accent">OPEN TO REMOTE FRONTEND ROLES</text><text x="924" y="375" class="meta" text-anchor="end">PROFESSIONAL EXPERIENCE SINCE 2022</text>
+<g aria-hidden="true">
+<rect x="642" y="85" width="282" height="236" rx="8" fill="url(#grid)"/>
+<path d="M674 110H901V294H674Z" fill="#e8eae1" stroke="#d0d8d1"/>
+<rect x="660" y="127" width="215" height="151" rx="8" fill="#f5f1e8" stroke="#246b53"/>
+<path d="M660 160H875M713 160V278" stroke="#d0d8d1"/>
+<rect x="672" y="139" width="19" height="9" rx="2" fill="#246b53"/>
+<path d="M725 142H794M672 178H701M672 190H695M672 202H697" stroke="#536b72" stroke-width="3"/>
+<rect x="726" y="174" width="59" height="40" rx="4" fill="#246b53" opacity=".17"/>
+<rect x="797" y="174" width="64" height="40" rx="4" fill="#a94d2b" opacity=".2"/>
+<path d="M736 201L745 195L753 198L773 183" stroke="#246b53" fill="none" stroke-width="2"/>
+<path d="M808 198H849M808 189H834M726 230H860M726 243H837M726 256H849" stroke="#d0d8d1" stroke-width="3"/>
+<path d="M633 111H647M640 104V118M900 310H914M907 303V317" stroke="#a94d2b" stroke-width="2"/>
+<path d="M846 254L846 286L855 277L863 291L870 287L862 273L875 270Z" fill="#a94d2b" stroke="#f5f1e8" stroke-width="2"/>
 </g></svg>
