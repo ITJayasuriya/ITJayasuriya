@@ -9,6 +9,8 @@ I'm **Isuru**, a Software Engineer at **Inivos**, based in Sri Lanka. I've worke
 
 **Frontend is my focus:** TypeScript, React, Next.js and Angular. My experience across backend development, Playwright automation and cloud delivery helps me follow a feature from the interface through to production.
 
+I've collaborated with **remote teams in Australia, the United States, Germany, and the Netherlands** through my work at Inivos.
+
 **Open to remote frontend opportunities with international teams.**  
 [Let's talk →](mailto:isurutjayasuriya@gmail.com) · [Browse my code →](https://github.com/ITJayasuriya?tab=repositories)
 
