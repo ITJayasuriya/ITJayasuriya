@@ -90,7 +90,7 @@ I bring experience collaborating across frontend, backend, QA and delivery respo
 
 **BEng (Hons) Software Engineering · First Class Honours**  
 Awarded by **University of Westminster, UK** · Studied at **IIT, Sri Lanka**  
-September 2021–2026 · Completed part-time alongside full-time employment.
+September 2021–2026
 
 **Additional learning**  
 Java Application Development (Java SE) — University of Colombo School of Computing  
