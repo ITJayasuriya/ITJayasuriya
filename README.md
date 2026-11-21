@@ -84,7 +84,7 @@ Modular UI and backend integrations for tea auctioning and blending software con
 **Inivos · January 2022–present**  
 Associate Software Engineer → **Software Engineer, July 2026**
 
-Worked on internal products and international client assignments through Inivos staff augmentation arrangements. My work has spanned frontend development, backend integrations, test automation and deployment. Since July 2026, my current assignment focuses on DevOps engineering, including Python, YAML and CI/CD.
+Worked on internal products and collaborated with international teams. My work has spanned frontend development, backend integrations, test automation and deployment. Since July 2026, my current assignment focuses on DevOps engineering, including Python, YAML and CI/CD.
 
 I bring experience collaborating across frontend, backend, QA and delivery responsibilities, with an understanding of how interface decisions connect to the rest of a system.
 
