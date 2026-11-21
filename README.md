@@ -24,11 +24,11 @@ I've worked with **international teams**, collaborating across frontend, backend
 
 ## A few things I've built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table width="100%">
+<tr><td>
 
-<img src="./assets/work-clinical.svg" alt="" width="100%">
+
+<img src="./assets/work-clinical.svg" alt="" width="100%" height="80">
 
 ### 01 / Clinical workflows
 
@@ -36,10 +36,15 @@ Angular interfaces for screening, cardiovascular risk assessment and diabetes ma
 
 `Angular` · `TypeScript` · `.NET Core`
 
-</td>
-<td width="50%" valign="top">
 
-<img src="./assets/work-website.svg" alt="" width="100%">
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+
+<img src="./assets/work-website.svg" alt="" width="100%" height="80">
 
 ### 02 / A connected public website
 
@@ -47,12 +52,15 @@ Frontend development for a healthcare company's website, with Zoom, Zendesk and 
 
 `React / Next.js` · `Chakra UI` · `Plasmic` · `AWS`
 
-</td>
-</tr>
-<tr>
-<td valign="top">
 
-<img src="./assets/work-transport.svg" alt="" width="100%">
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+
+<img src="./assets/work-transport.svg" alt="" width="100%" height="80">
 
 ### 03 / Transport operations
 
@@ -60,10 +68,15 @@ Playwright automation followed by full-stack development on **Transpomate**, cov
 
 `TypeScript` · `Next.js` · `NestJS` · `MSSQL` · `Azure`
 
-</td>
-<td valign="top">
 
-<img src="./assets/work-enterprise.svg" alt="" width="100%">
+</td></tr>
+</table>
+
+<table width="100%">
+<tr><td>
+
+
+<img src="./assets/work-enterprise.svg" alt="" width="100%" height="80">
 
 ### 04 / Enterprise interfaces
 
@@ -71,8 +84,8 @@ Modular UI and backend integrations for tea auctioning and blending software con
 
 `UI development` · `API integrations` · `ERP`
 
-</td>
-</tr>
+
+</td></tr>
 </table>
 
 ## Frontend first. Comfortable across the stack.
