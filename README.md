@@ -9,14 +9,14 @@
 
 Good interfaces make complex work feel simple.
 
-I'm **Isuru**, a frontend-focused Software Engineer at **Inivos**, based in Sri Lanka, with **nearly five years of professional software engineering experience since January 2022**. I've built healthcare interfaces, public websites and business applications while completing my Software Engineering degree with **First Class Honours**.
+I'm **Isuru**, a frontend-focused Software Engineer based in Sri Lanka, with **nearly five years of professional software engineering experience since January 2022**. I've built healthcare interfaces, public websites and business applications while completing my Software Engineering degree with **First Class Honours**.
 
 **Frontend is my focus:** TypeScript, React, Next.js and Angular. My experience across backend development, Playwright automation and cloud delivery helps me follow a feature from the interface through to production.
 
 I've worked with **international client teams through Inivos staff augmentation assignments**, collaborating across frontend, backend, QA and delivery.
 
 **Open to remote frontend opportunities with international teams.**  
-[Let's talk →](mailto:isurutjayasuriya@gmail.com) · [Browse my code →](https://github.com/ITJayasuriya?tab=repositories)
+[Let's talk →](mailto:isurutjayasuriya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isuru-jayasuriya/) · [Browse my code →](https://github.com/ITJayasuriya?tab=repositories)
 
 ---
 
