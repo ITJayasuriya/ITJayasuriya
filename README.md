@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend-focused Software Engineer. TypeScript, React, Next.js and Angular. Open to remote frontend roles." width="100%">
 </picture>
@@ -15,78 +17,39 @@ I'm **Isuru**, a frontend-focused Software Engineer based in Sri Lanka, with **n
 
 I've worked with **international teams**, collaborating across frontend, backend, QA and delivery.
 
-**Open to remote frontend opportunities with international teams.**  
-<a href="mailto:isurutjayasuriya@gmail.com"><img src="./assets/link-contact.svg" alt="Let's talk →" height="40"></a>
-<a href="https://www.linkedin.com/in/isuru-jayasuriya/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="40"></a>
-<a href="https://github.com/ITJayasuriya?tab=repositories"><img src="./assets/link-code.svg" alt="Browse my code →" height="40"></a>
+**Open to remote frontend opportunities with international teams.**
+
+<a href="mailto:isurutjayasuriya@gmail.com"><img src="./assets/link-contact.svg" alt="Let's talk →" height="56"></a>
+<a href="https://www.linkedin.com/in/isuru-jayasuriya/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" height="56"></a>
+<a href="https://github.com/ITJayasuriya?tab=repositories"><img src="./assets/link-code.svg" alt="Browse my code →" height="56"></a>
 
 ---
 
 ## A few things I've built
 
-<table width="100%">
-<tr><td>
-
-
-<img src="./assets/work-clinical.svg" alt="" width="100%" height="80">
-
-### 01 / Clinical workflows
+### <img src="./assets/work-clinical.svg" alt="" width="28" height="24"> &nbsp;01 / Clinical workflows
 
 Angular interfaces for screening, cardiovascular risk assessment and diabetes management. Reusable components, eligibility logic, interactive risk calculations and printable reports that support clinical workflows.
 
 `Angular` · `TypeScript` · `.NET Core`
 
-
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
-
-<img src="./assets/work-website.svg" alt="" width="100%" height="80">
-
-### 02 / A connected public website
+### <img src="./assets/work-website.svg" alt="" width="28" height="24"> &nbsp;02 / A connected public website
 
 Frontend development for a healthcare company's website, with Zoom, Zendesk and Google Analytics integrations. Worked across the interface and supporting AWS deployment services.
 
 `React / Next.js` · `Chakra UI` · `Plasmic` · `AWS`
 
-
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
-
-<img src="./assets/work-transport.svg" alt="" width="100%" height="80">
-
-### 03 / Transport operations
+### <img src="./assets/work-transport.svg" alt="" width="28" height="24"> &nbsp;03 / Transport operations
 
 Playwright automation followed by full-stack development on **Transpomate**, covering a platform for transport requests, approvals and vehicle allocation.
 
 `TypeScript` · `Next.js` · `NestJS` · `MSSQL` · `Azure`
 
-
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
-
-<img src="./assets/work-enterprise.svg" alt="" width="100%" height="80">
-
-### 04 / Enterprise interfaces
+### <img src="./assets/work-enterprise.svg" alt="" width="28" height="24"> &nbsp;04 / Enterprise interfaces
 
 Modular UI and backend integrations for tea auctioning and blending software connected to IFS and other ERP systems. Healthcare application re-skinning, UI fixes and API support work.
 
 `UI development` · `API integrations` · `ERP`
-
-
-</td></tr>
-</table>
 
 ## Frontend first. Comfortable across the stack.
 
@@ -121,7 +84,7 @@ Foundations of Project Management — Google
 
 ---
 
-<div align="center">
+<div align="left">
   <strong>Building a product that needs a thoughtful frontend?</strong><br>
   <a href="mailto:isurutjayasuriya@gmail.com">Let's talk about your team →</a><br><br>
   <span>Sri Lanka · UTC+05:30 · Open to international remote opportunities</span>
