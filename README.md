@@ -101,5 +101,5 @@ Foundations of Project Management — Google
 <div align="center">
   <strong>Building a product that needs a thoughtful frontend?</strong><br>
   <a href="mailto:isurutjayasuriya@gmail.com">Let's talk about your team →</a><br><br>
-  <sub>Sri Lanka · UTC+05:30 · Open to international remote opportunities</sub>
+  <span>Sri Lanka · UTC+05:30 · Open to international remote opportunities</span>
 </div>
