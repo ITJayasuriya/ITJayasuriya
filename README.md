@@ -1,7 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend developer. Thoughtful interfaces. Built to ship." width="100%">
+  <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Software Engineer. Thoughtful interfaces. Built to ship." width="100%">
 </picture>
+
+<br>
 
 <table>
 <tr>
