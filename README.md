@@ -1,85 +1,103 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Software Engineer. Thoughtful interfaces. Built to ship." width="100%">
+  <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend-focused Software Engineer. TypeScript, React, Next.js and Angular. Open to remote frontend roles." width="100%">
 </picture>
+
+### Good interfaces make complex work feel simple.
+
+I'm **Isuru**, a Software Engineer at **Inivos**, based in Sri Lanka. I've worked full-time in software since **January 2022**, building healthcare interfaces, public websites and business applications while completing my Software Engineering degree with **First Class Honours**.
+
+**Frontend is my focus:** TypeScript, React, Next.js and Angular. My experience across backend development, Playwright automation and cloud delivery helps me follow a feature from the interface through to production.
+
+**Open to remote frontend opportunities with international teams.**  
+[Let's talk →](mailto:isurutjayasuriya@gmail.com) · [Browse my code →](https://github.com/ITJayasuriya?tab=repositories)
+
+---
+
+### A few things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / Clinical workflows**
+
+Angular interfaces for screening, cardiovascular risk assessment and diabetes management. Reusable components, eligibility logic, interactive risk calculations and printable reports that support clinical workflows.
+
+`Angular` · `TypeScript` · `.NET Core`
+
+</td>
+<td width="50%" valign="top">
+
+**02 / A connected public website**
+
+Frontend development for a healthcare company's website, with Zoom, Zendesk and Google Analytics integrations. Worked across the interface and supporting AWS deployment services.
+
+`React / Next.js` · `Chakra UI` · `Plasmic` · `AWS`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**03 / Transport operations**
+
+Playwright automation followed by full-stack development on **Transpomate**, covering a platform for transport requests, approvals and vehicle allocation.
+
+`Next.js` · `NestJS` · `MSSQL` · `Azure`
+
+</td>
+<td valign="top">
+
+**04 / Enterprise interfaces**
+
+Modular UI and backend integrations for tea auctioning and blending software connected to IFS and other ERP systems. Healthcare application re-skinning, UI fixes and API support work.
+
+`UI development` · `API integrations` · `ERP`
+
+</td>
+</tr>
+</table>
+
+### Frontend first. Comfortable across the stack.
+
+| Focus | Toolkit |
+| :--- | :--- |
+| **Frontend** | TypeScript · JavaScript · React · Next.js · Angular · HTML · CSS |
+| **Interfaces** | Responsive layouts · Reusable components · Chakra UI · Plasmic · UI redesigns |
+| **Backend & data** | NestJS · C# · .NET Core · Microsoft SQL Server · API & ERP integrations |
+| **Quality** | Playwright · Test automation · UI debugging · Application support |
+| **Cloud & delivery** | Azure · Azure DevOps · AWS Amplify · Lambda · API Gateway · CI/CD |
+| **Automation & foundations** | Python · YAML · Git · Java / Java SE |
+
+<details>
+<summary><strong>The experience behind the interfaces</strong></summary>
 
 <br>
 
-### Hi, I'm Isuru.
+**Inivos · January 2022–present**  
+Associate Software Engineer → **Software Engineer, July 2026**
 
-I'm a **Software Engineer focused on frontend development**, with professional experience since **January 2022**. I build interfaces with **TypeScript, React, Next.js, and Angular**, bringing experience across the backend services, automated tests, and cloud infrastructure that support them.
+Worked on internal products and international client assignments through Inivos staff augmentation arrangements. My work has spanned frontend development, backend integrations, test automation and deployment. Since July 2026, my current assignment focuses on DevOps engineering, including Python, YAML and CI/CD.
 
-My work spans healthcare applications, public-facing websites, transport operations, and enterprise software. I enjoy turning complex workflows into clear interfaces—from reusable components and UI redesigns to API integrations and production delivery.
-
-**Open to remote frontend opportunities with international teams.**
-
-[Email me](mailto:isurutjayasuriya@gmail.com) · [Explore my repositories](https://github.com/ITJayasuriya?tab=repositories)
-
----
-
-### Frontend craft, backed by delivery experience
-
-| What I build | What I bring |
-| :--- | :--- |
-| **Interfaces & components** | Responsive layouts, modular components, interactive workflows, and maintainable UI structure |
-| **UI / UX improvements** | Interface design, application re-skinning, visual consistency, accessibility improvements, and UI bug fixes |
-| **Data-driven experiences** | API integration, clinical assessment logic, eligibility rules, interactive risk calculations, and printable reports |
-| **Connected applications** | Third-party integrations, backend services, databases, automated tests, and deployment pipelines |
-
-### Work I've contributed to
-
-**01 / Healthcare interfaces**  
-Built Angular interfaces for clinical screening, cardiovascular risk assessment, and diabetes management. Implemented assessment algorithms, interactive risk adjustments, and report printing. Modernized an existing practice management interface through re-skinning and UI fixes.
-
-**02 / Websites & service integrations**  
-Developed a healthcare company's public website with React / Next.js, Plasmic, and Chakra UI. Integrated Zoom, Zendesk, and Google Analytics, and worked with AWS Amplify, API Gateway, and Lambda for deployment and supporting services.
-
-**03 / Transport operations**  
-Contributed to Transpomate, a platform for transport requests, approvals, and vehicle allocation. Worked on Playwright test automation before moving into full-stack development with TypeScript, Next.js, NestJS, MSSQL, and Azure.
-
-**04 / Enterprise applications & support**  
-Developed modular interfaces and backend integrations for tea auctioning and blending software connected to IFS and other ERP systems. Resolved frontend defects and enhanced APIs in healthcare application support work.
-
-**05 / Cloud delivery & automation**  
-Established and maintained CI/CD pipelines, deployed applications and databases, and worked on database performance and cloud services. My DevOps experience also includes Python scripting and YAML pipeline configuration.
-
----
-
-### My toolkit
-
-| Area | Technologies & capabilities |
-| :--- | :--- |
-| **Frontend — primary focus** | TypeScript · JavaScript · React · Next.js · Angular · HTML · CSS |
-| **UI / UX & implementation** | Figma · Chakra UI · Plasmic · Responsive design · Reusable components · UI redesigns |
-| **Backend & integrations** | NestJS · C# · .NET Core · API development & integration · Third-party services · ERP integrations |
-| **Data** | Microsoft SQL Server · Database design, deployment & management |
-| **Testing & troubleshooting** | Playwright · Test automation · UI debugging · API fixes · Application support |
-| **Cloud** | Azure · AWS · AWS Amplify · AWS Lambda · Amazon API Gateway · Application & database deployment |
-| **DevOps & automation** | Azure DevOps · CI/CD · Git · Python · YAML · Deployment pipelines |
-| **Additional foundation** | Java / Java SE · Project management fundamentals |
-
-I have experience collaborating with cross-functional teams and international client teams, working across frontend, backend, QA, and delivery responsibilities.
-
-### Experience & education
-
-**Software Engineer · Inivos**  
-January 2022–present  
-Experience across internal products and international client teams through Inivos staff augmentation assignments. Currently working in DevOps engineering, with frontend development as my career focus.
+I bring experience collaborating across frontend, backend, QA and delivery responsibilities, with an understanding of how interface decisions connect to the rest of a system.
 
 **BEng (Hons) Software Engineering · First Class Honours**  
-University of Westminster, UK · Studied at IIT, Sri Lanka · 2021–2026  
-Completed part-time alongside full-time software engineering work.
+Awarded by **University of Westminster, UK** · Studied at **IIT, Sri Lanka**  
+September 2021–2026 · Completed part-time alongside full-time employment.
 
 **Additional learning**  
-Java Application Development (Java SE) · University of Colombo School of Computing  
-Foundations of Project Management · Google
+Java Application Development (Java SE) — University of Colombo School of Computing  
+Foundations of Project Management — Google
 
-**Languages** · English · Sinhala
+**Languages:** English · Sinhala
+
+</details>
 
 ---
 
 <div align="center">
-  <strong>Have a frontend role in mind? Let's talk.</strong><br>
-  <a href="mailto:isurutjayasuriya@gmail.com">isurutjayasuriya@gmail.com</a><br><br>
-  <sub>Based in Sri Lanka · Open to international remote opportunities</sub>
+  <strong>Building a product that needs a thoughtful frontend?</strong><br>
+  <a href="mailto:isurutjayasuriya@gmail.com">Let's talk about your team →</a><br><br>
+  <sub>Sri Lanka · UTC+05:30 · Open to international remote opportunities</sub>
 </div>
