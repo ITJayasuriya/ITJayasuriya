@@ -3,21 +3,27 @@
   <img src="./assets/header-light.svg" alt="Isuru Jayasuriya — Frontend developer. Thoughtful interfaces. Built to ship." width="100%">
 </picture>
 
-<br>
-
-<img align="right" src="./assets/isuru.jpeg" alt="Isuru Jayasuriya" width="155">
+<table>
+<tr>
+<td width="220" align="center" valign="middle">
+<img src="./assets/isuru.jpeg" alt="Portrait of Isuru Jayasuriya" width="190"><br>
+<sub><strong>ISURU JAYASURIYA</strong><br>Software Engineer · Sri Lanka</sub>
+</td>
+<td valign="middle">
 
 ### Hi, I'm Isuru.
 
-I'm a **Software Engineer at Inivos**, with professional experience since **January 2022**. My focus is frontend development: building useful interfaces with **TypeScript, React, Next.js, and Angular**.
+I'm a **Software Engineer** with professional experience since **January 2022**. I build useful interfaces with **TypeScript, React, Next.js, and Angular**.
 
-I've worked on healthcare applications, public-facing websites, and transport operations software—with hands-on experience across APIs, automated testing, and cloud delivery.
+My experience spans healthcare applications, public-facing websites, and transport operations software, supported by hands-on work with APIs, automated testing, and cloud delivery.
 
-**I'm interested in remote frontend opportunities with international teams.**
+**Open to remote frontend opportunities with international teams.**
 
 [Email me](mailto:isurutjayasuriya@gmail.com) · [Explore my repositories](https://github.com/ITJayasuriya?tab=repositories)
 
-<br clear="all">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,8 +83,8 @@ My current assignment focuses on DevOps engineering: Python, YAML, and CI/CD. Th
 
 ### Experience & education
 
-**Inivos · January 2022–present**  
-Associate Software Engineer → **Software Engineer, July 2026**  
+**Software Engineer · Inivos**  
+January 2022–present  
 Experience across internal products and international client teams through Inivos staff augmentation assignments. Currently working in DevOps engineering, with frontend development as my career focus.
 
 **BEng (Hons) Software Engineering · First Class Honours**  
